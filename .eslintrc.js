@@ -23,6 +23,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'react/static-property-placement': ['error', 'static public field'],
     'react/state-in-constructor': ['error', 'never'],
+    'no-param-reassign': 'off',
     'no-console': ['error', { allow: ['tron'] }],
   },
 };
